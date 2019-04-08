@@ -32,6 +32,7 @@ namespace IOTool
                 Thread.Sleep(200);
                 try
                 {
+                
                     //0
                     Invoke(label1, 0, 0);
                     Invoke(label2, 0, 1);
